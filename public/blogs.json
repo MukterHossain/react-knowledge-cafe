@@ -1,50 +1,50 @@
 [
     {
       "id": 123456,
-      "cover": "https://i.ibb.co/1THVvnN/2941.jpg",
+      "cover": "https://i.ibb.co/D9QTBmB/2.png",
       "title": "The Secret Garden",
       "author": "Emily Smith",
-      "author_img": "https://i.ibb.co/1THVvnN/2941.jpg",
+      "author_img": "https://i.ibb.co/2v06vJ4/girl1.jpg",
       "posted_date": "2024-03-10",
       "reading_time": "45",
       "hashtag": ["#fiction", "#gardening", "#classic"]
     },
     {
       "id": 789012,
-      "cover": "https://i.ibb.co/0f5SzH7/digital-marketinge.jpg",
+      "cover": "https://i.ibb.co/XCqCnSY/3.png",
       "title": "Beyond the Stars",
       "author": "John Johnson",
-      "author_img": "https://i.ibb.co/0f5SzH7/digital-marketinge.jpg",
+      "author_img": "https://i.ibb.co/qdyhCvC/girl2.jpg",
       "posted_date": "2024-03-11",
       "reading_time": "32",
       "hashtag": ["#sciencefiction", "#adventure", "#space"]
     },
     {
       "id": 345678,
-      "cover": "https://i.ibb.co/nDT4QtS/Real-Estate.jpg",
+      "cover": "https://i.ibb.co/MpMHrfM/4.jpg",
       "title": "The Enchanted Forest",
       "author": "Sarah Brown",
-      "author_img": "https://i.ibb.co/nDT4QtS/Real-Estate.jpg",
+      "author_img": "https://i.ibb.co/cC6YsWy/boy1.png",
       "posted_date": "2024-03-09",
       "reading_time": "25",
       "hashtag": ["#fantasy", "#magic", "#childrensbooks"]
     },
     {
       "id": 901234,
-      "cover": "https://i.ibb.co/kq27Rwx/Real-Estate-1.jpg",
+      "cover": "https://i.ibb.co/3yQzWHc/1.jpg",
       "title": "Murder Mystery Mansion",
       "author": "David White",
-      "author_img": "https://i.ibb.co/kq27Rwx/Real-Estate-1.jpg",
+      "author_img": "https://i.ibb.co/M6vGVbL/boy2.jpg",
       "posted_date": "2024-03-08",
       "reading_time": "35",
       "hashtag": ["#mystery", "#detective", "#thriller"]
     },
     {
       "id": 567890,
-      "cover": "https://i.ibb.co/kq27Rwx/Real-Estate-1.jpg",
+      "cover": "https://i.ibb.co/MpMHrfM/4.jpg",
       "title": "Cooking with Passion",
       "author": "Emma Green",
-      "author_img": "https://i.ibb.co/kq27Rwx/Real-Estate-1.jpg",
+      "author_img": "https://i.ibb.co/qdyhCvC/girl2.jpg",
       "posted_date": "2024-03-12",
       "reading_time": "48",
       "hashtag": ["#cooking", "#recipes", "#foodlover"]
