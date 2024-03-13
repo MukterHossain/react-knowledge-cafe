@@ -1,0 +1,53 @@
+[
+    {
+      "id": 123456,
+      "cover": "https://i.ibb.co/1THVvnN/2941.jpg",
+      "title": "The Secret Garden",
+      "author": "Emily Smith",
+      "author_img": "https://i.ibb.co/1THVvnN/2941.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "45",
+      "hashtag": ["#fiction", "#gardening", "#classic"]
+    },
+    {
+      "id": 789012,
+      "cover": "https://i.ibb.co/0f5SzH7/digital-marketinge.jpg",
+      "title": "Beyond the Stars",
+      "author": "John Johnson",
+      "author_img": "https://i.ibb.co/0f5SzH7/digital-marketinge.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "32",
+      "hashtag": ["#sciencefiction", "#adventure", "#space"]
+    },
+    {
+      "id": 345678,
+      "cover": "https://i.ibb.co/nDT4QtS/Real-Estate.jpg",
+      "title": "The Enchanted Forest",
+      "author": "Sarah Brown",
+      "author_img": "https://i.ibb.co/nDT4QtS/Real-Estate.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": "25",
+      "hashtag": ["#fantasy", "#magic", "#childrensbooks"]
+    },
+    {
+      "id": 901234,
+      "cover": "https://i.ibb.co/kq27Rwx/Real-Estate-1.jpg",
+      "title": "Murder Mystery Mansion",
+      "author": "David White",
+      "author_img": "https://i.ibb.co/kq27Rwx/Real-Estate-1.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": "35",
+      "hashtag": ["#mystery", "#detective", "#thriller"]
+    },
+    {
+      "id": 567890,
+      "cover": "https://i.ibb.co/kq27Rwx/Real-Estate-1.jpg",
+      "title": "Cooking with Passion",
+      "author": "Emma Green",
+      "author_img": "https://i.ibb.co/kq27Rwx/Real-Estate-1.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "48",
+      "hashtag": ["#cooking", "#recipes", "#foodlover"]
+    }
+  ]
+  
